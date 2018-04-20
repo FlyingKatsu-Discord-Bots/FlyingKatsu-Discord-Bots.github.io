@@ -1,2 +1,2 @@
-# FlyingKatsu-Discord-Bots.io
-ReactJS website for FlyingKatsu bot projects
+# FlyingKatsu-Discord-Bots Website
+Gatsby-Powered ReactJS website for FlyingKatsu bot projects
